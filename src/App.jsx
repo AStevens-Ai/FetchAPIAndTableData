@@ -22,7 +22,7 @@ function App() {
   }, []);
 
   return (
-    <div>
+    <div className="backgroundColor">
       <h1>User Data Table</h1>
       <table className="table">
         <thead>
